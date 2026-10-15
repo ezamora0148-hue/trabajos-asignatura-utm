@@ -24,4 +24,4 @@ Los archivos de las actividades se incorporarán progresivamente, de acuerdo con
 
 ## Autor
 
-Eddy Zamora
+Eddy Zamora Fuertes
